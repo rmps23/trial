@@ -2,7 +2,7 @@
 
 - Create an .env file with this config:
 
--APP_NAME=Laravel
+<p>APP_NAME=Laravel</p>
 -APP_ENV=local
 -APP_KEY=base64:DhJaejMLwXIAODCC+ratakhaakvXUAzDjA6tZ++V/GU=
 -APP_DEBUG=true
